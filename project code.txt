@@ -1,0 +1,7 @@
+seeds_data=importdata('seeds_data.txt')
+
+seeds_data=seeds_data'
+
+>> x=importdata('seeds_x.txt')%%importdata to get input matrix
+>> t=importdata('seeds_t.txt')%%importdata to get target matrix
+
